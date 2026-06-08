@@ -1,0 +1,107 @@
+{
+  "personal": {
+    "name": "Shaurya Manjkhola",
+    "tagline": "BITS Goa 24–28 · ML enthusiast · Software developer · Competitive programmer",
+    "bio": "Third-year Mathematics and Computing undergraduate with a strong foundation in algorithms, machine learning, and software development. I approach problems methodically—breaking them down to core principles and building clean, efficient solutions. My work sits at the intersection of rigorous mathematics and practical computing.",
+    "unique_edge": "I combine a mathematician's structured, first-principles thinking with hands-on coding ability. Competitive programming has sharpened my reasoning under constraints, while ML and software development work let me move fluidly between theory and implementation.",
+    "degree": "B.E. in Mathematics and Computing",
+    "institution": "BITS Pilani, Goa Campus",
+    "year": "1st Year (2024–2028)",
+    "graduation_year": "2028",
+    "looking_for": "Actively seeking internship opportunities in algorithms, machine learning, or software development."
+  },
+  "contact": {
+    "email": "shaurya.manjkhola@gmail.com",
+    "phone": "8847499640",
+    "github": "https://github.com/shaurya-manjkhola",
+    "github_handle": "shaurya-manjkhola",
+    "location": "Chandigarh, India"
+  },
+  "skills": {
+    "programming_languages": ["C++", "Python", "MATLAB"],
+    "libraries_and_frameworks": ["PyTorch", "Scikit-learn", "Pandas", "NumPy", "Weights & Biases"],
+    "tools": ["Git", "Google Colab", "Jupyter", "PyCharm"],
+    "soft_skills": ["Algorithm design", "Problem decomposition", "Experimental design", "Technical writing"],
+    "currently_learning": ["Reinforcement Learning", "System Design basics", "Transformers (in depth)"]
+  },
+  "projects": [
+    {
+      "id": "proj-001",
+      "name": "Transformer Architecture Benchmarking",
+      "domain": "Machine Learning / NLP",
+      "status": "Completed",
+      "description": "Benchmarked multiple attention mechanisms and positional encoding strategies to analyze their effect on language model performance and long-context generalization.",
+      "tech_stack": ["Python", "PyTorch", "Weights & Biases", "Google Colab", "Git"],
+      "role": "Solo — designed experiments, implemented all attention variants, and built the benchmarking pipeline from scratch.",
+      "problem_solved": "Establishing fair, reproducible comparisons between diverse transformer design choices under identical training conditions.",
+      "what_i_learned": "The importance of controlled experimental design and how subtle architecture choices dramatically shift long-context generalization.",
+      "challenge": "Ensuring fair comparison across architectures by standardizing training configs and isolating variables systematically.",
+      "impact": "Produced a technical report documenting architecture trade-offs; framework is reusable for future ablation studies.",
+      "github_link": ""
+    },
+    {
+      "id": "proj-002",
+      "name": "Causal Uplift Modeling for Advertising",
+      "domain": "Causal ML / Data Science",
+      "status": "Completed",
+      "description": "Built a causal ML pipeline to estimate the true incremental impact of ad campaigns on customer behavior using interpretable Explainable Boosting Models (EBMs).",
+      "tech_stack": ["Python", "Pandas", "NumPy", "Scikit-learn", "Jupyter"],
+      "role": "Group project — contributed literature review, EDA, and feature engineering for the modeling pipeline.",
+      "problem_solved": "Separating causation from correlation in ad data to isolate true campaign lift rather than naive before/after comparisons.",
+      "what_i_learned": "How causal inference frameworks (uplift modeling) outperform traditional response prediction in measuring real campaign impact.",
+      "challenge": "Applying uplift modeling techniques to isolate true campaign lift instead of naive before/after comparisons.",
+      "impact": "Demonstrated measurable advantages of causal modeling over traditional response prediction with an end-to-end evaluation framework.",
+      "github_link": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-001",
+      "role": "Practice School–I Intern",
+      "organization": "Caarya Innovative",
+      "status": "Current",
+      "duration": "Ongoing",
+      "description": "Industry internship under BITS Pilani's PS-I program, receiving mentorship on AI applications and product development.",
+      "contributions": "Contributing to AI applications, software engineering initiatives, and collaborating with industry mentors to apply academic knowledge in real-world settings.",
+      "skills_used": ["Python", "Machine Learning", "Software Development", "Problem-solving"]
+    }
+  ],
+  "education": [
+    {
+      "level": "Undergraduate",
+      "institution": "BITS Pilani, Goa Campus",
+      "degree": "B.E. in Mathematics and Computing",
+      "graduation_year": "2028",
+      "highlights": ["Strong foundation in algorithms and data structures", "Advanced coursework in ML and statistical analysis"]
+    }
+  ],
+  "competitive_programming": {
+    "platform": "Codeforces",
+    "handle": "shaman.",
+    "rating": 1437,
+    "language": "C++",
+    "profile_url": "https://codeforces.com/profile/shaman."
+  },
+  "interests": {
+    "professional": ["Machine Learning", "Algorithms", "Software Engineering", "Causal Inference"],
+    "personal": ["Competitive Programming", "Chess", "Reading"]
+  },
+  "qa_seeds": [
+    {
+      "question": "What is Shaurya's background?",
+      "answer": "Shaurya is a first-year Mathematics and Computing undergraduate at BITS Pilani, Goa Campus (2024–2028). He has deep interests in machine learning, algorithms, and software development, and is actively seeking internship opportunities."
+    },
+    {
+      "question": "What ML experience does Shaurya have?",
+      "answer": "Shaurya has hands-on ML experience including a comparative study of transformer architectures (attention mechanisms, positional encodings) and a causal uplift modeling project for advertising analytics using EBMs. He works with PyTorch, Scikit-learn, and Weights & Biases."
+    },
+    {
+      "question": "What is Shaurya's competitive programming background?",
+      "answer": "Shaurya competes on Codeforces under the handle 'shaman.' with a current rating of 1437. He primarily solves problems in C++. Competitive programming has honed his algorithmic thinking and ability to work under time constraints."
+    },
+    {
+      "question": "How can I contact Shaurya?",
+      "answer": "You can reach Shaurya at shaurya.manjkhola@gmail.com or call 8847499640. His GitHub handle is shaurya-manjkhola. He is based in Chandigarh, India, and open to relocation for the right opportunity."
+    }
+  ]
+}
